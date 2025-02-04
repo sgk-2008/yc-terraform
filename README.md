@@ -1,1 +1,2 @@
-Вся инструкция может быть получена из официального источника Яндекс Cloud: https://yandex.cloud/ru/docs/tutorials/infrastructure-management/terraform-quickstart#windows_2
+Вся инструкция по установке Terraform и подключению к Яндекс облаку может быть получена из официального источника Яндекс Cloud: https://yandex.cloud/ru/docs/tutorials/infrastructure-management/terraform-quickstart#windows_2
+В данном репозитории выложены готовые конфигурационные файлы для автоматического разворачивания от одной до нескольких виртуальных машин с индивидуальными характеристиками.
